@@ -1,0 +1,344 @@
+{
+ "name": "SU Men",
+ "kind": "tierA",
+ "ra_deg": 61.6635,
+ "dec_deg": -77.1327,
+ "catalogue_depth_mag": 1.5,
+ "rank": "15",
+ "score": "0.387",
+ "dasch_ref_csv": "APASS_J040639.3-770757",
+ "type": "EA",
+ "period_status": "period_unknown_in_vsx",
+ "dasch_ref": "APASS_J040639.3-770757",
+ "dasch_ref_number": "404063932770757",
+ "dasch_sep_arcsec": 0.28,
+ "dasch_B": "13.35",
+ "dasch_num_matches": "2593",
+ "n_comparisons": 12,
+ "comparisons": [
+  "APASS_J040642.0-770733",
+  "APASS_J040725.5-771042",
+  "APASS_J040637.4-771211",
+  "APASS_J040814.4-770759",
+  "APASS_J040446.8-770523",
+  "APASS_J040810.0-771241",
+  "APASS_J040412.1-771323",
+  "S0103020326",
+  "APASS_J040536.1-770817",
+  "APASS_J040742.9-770815",
+  "APASS_J040504.1-770947",
+  "APASS_J040441.4-771152"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 13.04,
+ "plate_sigma_mag": 0.341,
+ "n_good_plates": 1081,
+ "n_plate_rows": 4243,
+ "miss_rate": 0.071,
+ "jd_range": [
+  2411257.9,
+  2447774.0
+ ],
+ "n_faint_plates": 51,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 46,
+ "sensitivity": {
+  "plate_sigma_mag": 0.341,
+  "faint_threshold_mag": 1.19,
+  "catalogue_depth_mag": 1.5,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 1052,
+  "caught_frac": {
+   "10": 0.131,
+   "30": 0.251,
+   "100": 0.38,
+   "365": 0.586
+  },
+  "caught_frac_3nights": {
+   "10": 0.024,
+   "30": 0.091,
+   "100": 0.22,
+   "365": 0.411
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 12,
+  "with_events": 1,
+  "total_events": 66,
+  "hits": [
+   {
+    "ref": "404064202770733",
+    "n_events": 66,
+    "events": [
+     {
+      "year_start": 1925.97,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1926.79,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1929.97,
+      "n_plates": 5
+     },
+     {
+      "year_start": 1933.96,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1934.7,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1936.61,
+      "n_plates": 11
+     },
+     {
+      "year_start": 1937.09,
+      "n_plates": 14
+     },
+     {
+      "year_start": 1937.58,
+      "n_plates": 8
+     },
+     {
+      "year_start": 1937.9,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1938.42,
+      "n_plates": 7
+     },
+     {
+      "year_start": 1938.59,
+      "n_plates": 9
+     },
+     {
+      "year_start": 1938.71,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1938.79,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1938.83,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1938.87,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1939.14,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1939.27,
+      "n_plates": 7
+     },
+     {
+      "year_start": 1939.39,
+      "n_plates": 25
+     },
+     {
+      "year_start": 1939.7,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1939.86,
+      "n_plates": 14
+     },
+     {
+      "year_start": 1940.49,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1940.53,
+      "n_plates": 7
+     },
+     {
+      "year_start": 1940.6,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1940.65,
+      "n_plates": 7
+     },
+     {
+      "year_start": 1940.77,
+      "n_plates": 5
+     },
+     {
+      "year_start": 1941.31,
+      "n_plates": 17
+     },
+     {
+      "year_start": 1941.57,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1941.72,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1941.82,
+      "n_plates": 8
+     },
+     {
+      "year_start": 1943.08,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1944.48,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1944.89,
+      "n_plates": 12
+     },
+     {
+      "year_start": 1945.1,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1945.78,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1946.23,
+      "n_plates": 13
+     },
+     {
+      "year_start": 1946.49,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1946.51,
+      "n_plates": 8
+     },
+     {
+      "year_start": 1946.64,
+      "n_plates": 8
+     },
+     {
+      "year_start": 1946.68,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1946.79,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1946.88,
+      "n_plates": 16
+     },
+     {
+      "year_start": 1947.29,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1947.65,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1947.69,
+      "n_plates": 5
+     },
+     {
+      "year_start": 1947.73,
+      "n_plates": 12
+     },
+     {
+      "year_start": 1947.87,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1947.96,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1948.08,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1948.67,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1948.82,
+      "n_plates": 13
+     },
+     {
+      "year_start": 1949.25,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1949.42,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1949.49,
+      "n_plates": 17
+     },
+     {
+      "year_start": 1949.89,
+      "n_plates": 10
+     },
+     {
+      "year_start": 1950.7,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1951.9,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1970.75,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1970.88,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1971.95,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1979.79,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1981.16,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1984.07,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1985.14,
+      "n_plates": 5
+     },
+     {
+      "year_start": 1985.39,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1986.65,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1988.3,
+      "n_plates": 4
+     }
+    ]
+   }
+  ]
+ }
+}

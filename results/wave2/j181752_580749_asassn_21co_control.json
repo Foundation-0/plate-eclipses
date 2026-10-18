@@ -1,0 +1,211 @@
+{
+ "name": "J181752-580749 (ASASSN-21co control)",
+ "kind": "control_period",
+ "ra_deg": 274.4647083,
+ "dec_deg": -58.13033333,
+ "catalogue_depth_mag": 0.7,
+ "dasch_ref": "APASS_J181751.5-580749",
+ "dasch_ref_number": "418175152580749",
+ "dasch_sep_arcsec": 0.49,
+ "dasch_B": "13.33",
+ "dasch_num_matches": "1151",
+ "n_comparisons": 12,
+ "comparisons": [
+  "APASS_J181723.6-581010",
+  "APASS_J181720.0-580420",
+  "APASS_J181717.1-580341",
+  "APASS_J181747.1-581447",
+  "APASS_J181729.5-581428",
+  "APASS_J181834.9-581345",
+  "APASS_J181726.8-575958",
+  "APASS_J181857.6-581257",
+  "APASS_J181840.7-575916",
+  "APASS_J181636.6-575959",
+  "APASS_J181750.9-580618",
+  "APASS_J181747.8-580543"
+ ],
+ "status": "searched",
+ "median_B_corrected": 13.3,
+ "plate_sigma_mag": 0.163,
+ "n_good_plates": 574,
+ "n_plate_rows": 3163,
+ "miss_rate": 0.033,
+ "jd_range": [
+  2411191.7,
+  2447771.0
+ ],
+ "n_faint_plates": 22,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 21,
+ "sensitivity": {
+  "plate_sigma_mag": 0.163,
+  "faint_threshold_mag": 0.57,
+  "catalogue_depth_mag": 0.7,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 563,
+  "caught_frac": {
+   "10": 0.093,
+   "30": 0.192,
+   "100": 0.337,
+   "365": 0.586
+  },
+  "caught_frac_3nights": {
+   "10": 0.008,
+   "30": 0.054,
+   "100": 0.175,
+   "365": 0.437
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 12,
+  "with_events": 2,
+  "total_events": 20,
+  "hits": [
+   {
+    "ref": "418172362581010",
+    "n_events": 14,
+    "events": [
+     {
+      "year_start": 1924.5,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1924.65,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1926.42,
+      "n_plates": 11
+     },
+     {
+      "year_start": 1928.46,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1933.3,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1934.43,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1939.21,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1942.36,
+      "n_plates": 4
+     },
+     {
+      "year_start": 1942.52,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1945.55,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1946.51,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1947.4,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1949.34,
+      "n_plates": 5
+     },
+     {
+      "year_start": 1949.49,
+      "n_plates": 4
+     }
+    ]
+   },
+   {
+    "ref": "418172002580420",
+    "n_events": 6,
+    "events": [
+     {
+      "year_start": 1924.36,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1926.3,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1928.46,
+      "n_plates": 6
+     },
+     {
+      "year_start": 1940.33,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1941.31,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1946.5,
+      "n_plates": 4
+     }
+    ]
+   }
+  ]
+ },
+ "period_scan": {
+  "settings": {
+   "T0": 2459289.5,
+   "D": 66.0,
+   "depth": 0.7,
+   "Pmin": 3000.0,
+   "Pmax": 45000
+  },
+  "sigma": 0.163,
+  "miss_rate": 0.033,
+  "n_obs": 605,
+  "n_trial_periods": 19737,
+  "peaks": [
+   [
+    4342.3,
+    18.0,
+    3
+   ],
+   [
+    3255.6,
+    15.4,
+    3
+   ],
+   [
+    6512.5,
+    12.0,
+    2
+   ],
+   [
+    13032.6,
+    12.0,
+    2
+   ],
+   [
+    4869.4,
+    6.8,
+    2
+   ],
+   [
+    19476.5,
+    6.8,
+    2
+   ]
+  ],
+  "null40": {
+   "median": 12.0,
+   "max": 15.4,
+   "frac_ge_best": 0.0
+  },
+  "known": "best peak 4343.5 d, dlogL 18.0, 3 nights; null40 max 15.4 (results/period_scan_asassn21co.txt)"
+ }
+}

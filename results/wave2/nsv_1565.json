@@ -1,0 +1,63 @@
+{
+ "name": "NSV 1565",
+ "kind": "tierA",
+ "ra_deg": 64.7253,
+ "dec_deg": -64.5912,
+ "catalogue_depth_mag": 1.0,
+ "rank": "22",
+ "score": "0.304",
+ "dasch_ref_csv": "APASS_J041854.1-643528",
+ "type": "EA",
+ "period_status": "period_unknown_in_vsx",
+ "dasch_ref": "APASS_J041854.1-643528",
+ "dasch_ref_number": "404185412643528",
+ "dasch_sep_arcsec": 0.16,
+ "dasch_B": "12.39",
+ "dasch_num_matches": "2142",
+ "n_comparisons": 2,
+ "comparisons": [
+  "APASS_J041834.1-643425",
+  "APASS_J041921.9-644435"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 12.42,
+ "plate_sigma_mag": 0.105,
+ "n_good_plates": 1102,
+ "n_plate_rows": 2696,
+ "miss_rate": 0.02,
+ "jd_range": [
+  2411257.9,
+  2447774.0
+ ],
+ "n_faint_plates": 2,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 2,
+ "sensitivity": {
+  "plate_sigma_mag": 0.105,
+  "faint_threshold_mag": 0.5,
+  "catalogue_depth_mag": 1.0,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 1100,
+  "caught_frac": {
+   "10": 0.14,
+   "30": 0.259,
+   "100": 0.407,
+   "365": 0.624
+  },
+  "caught_frac_3nights": {
+   "10": 0.026,
+   "30": 0.109,
+   "100": 0.251,
+   "365": 0.461
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 0,
+  "with_events": 0,
+  "total_events": 0,
+  "hits": []
+ }
+}

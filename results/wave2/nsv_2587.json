@@ -1,0 +1,63 @@
+{
+ "name": "NSV 2587",
+ "kind": "tierA",
+ "ra_deg": 85.6387,
+ "dec_deg": 7.15647,
+ "catalogue_depth_mag": 1.9,
+ "rank": "1",
+ "score": "0.7372",
+ "dasch_ref_csv": "APASS_J054233.4+070923",
+ "type": "EA:",
+ "period_status": "period_unknown_in_vsx;type_uncertain",
+ "dasch_ref": "APASS_J054233.4+070923",
+ "dasch_ref_number": "405423341070923",
+ "dasch_sep_arcsec": 1.2,
+ "dasch_B": "11.1",
+ "dasch_num_matches": "2384",
+ "n_comparisons": 2,
+ "comparisons": [
+  "APASS_J054235.0+070743",
+  "APASS_J054224.4+071316"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 11.11,
+ "plate_sigma_mag": 0.186,
+ "n_good_plates": 797,
+ "n_plate_rows": 3398,
+ "miss_rate": 0.02,
+ "jd_range": [
+  2411348.8,
+  2447861.8
+ ],
+ "n_faint_plates": 0,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 0,
+ "sensitivity": {
+  "plate_sigma_mag": 0.186,
+  "faint_threshold_mag": 0.65,
+  "catalogue_depth_mag": 1.9,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 797,
+  "caught_frac": {
+   "10": 0.141,
+   "30": 0.29,
+   "100": 0.49,
+   "365": 0.775
+  },
+  "caught_frac_3nights": {
+   "10": 0.01,
+   "30": 0.076,
+   "100": 0.274,
+   "365": 0.655
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 0,
+  "with_events": 0,
+  "total_events": 0,
+  "hits": []
+ }
+}

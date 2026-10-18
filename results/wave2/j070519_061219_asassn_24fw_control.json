@@ -1,0 +1,313 @@
+{
+ "name": "J070519+061219 (ASASSN-24fw control)",
+ "kind": "control_blind",
+ "ra_deg": 106.32899,
+ "dec_deg": 6.205306,
+ "catalogue_depth_mag": 3.84,
+ "dasch_ref": "APASS_J070519.0+061220",
+ "dasch_ref_number": "407051901061220",
+ "dasch_sep_arcsec": 0.51,
+ "dasch_B": "13.36",
+ "dasch_num_matches": "850",
+ "n_comparisons": 11,
+ "comparisons": [
+  "APASS_J070521.7+061257",
+  "APASS_J070518.2+061030",
+  "APASS_J070509.4+061254",
+  "APASS_J070525.5+061018",
+  "APASS_J070509.2+061348",
+  "APASS_J070521.1+060906",
+  "APASS_J070531.0+061059",
+  "APASS_J070507.9+061436",
+  "APASS_J070530.8+060959",
+  "APASS_J070509.9+061542",
+  "APASS_J070511.5+061603"
+ ],
+ "status": "searched",
+ "median_B_corrected": 13.29,
+ "plate_sigma_mag": 0.13,
+ "n_good_plates": 403,
+ "n_plate_rows": 3212,
+ "miss_rate": 0.075,
+ "jd_range": [
+  2411321.9,
+  2447861.8
+ ],
+ "n_faint_plates": 30,
+ "n_events_ge3nights": 2,
+ "n_clusters_ge1night": 11,
+ "sensitivity": {
+  "plate_sigma_mag": 0.13,
+  "faint_threshold_mag": 0.5,
+  "catalogue_depth_mag": 3.84,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 403,
+  "caught_frac": {
+   "10": 0.078,
+   "30": 0.178,
+   "100": 0.326,
+   "365": 0.586
+  },
+  "caught_frac_3nights": {
+   "10": 0.003,
+   "30": 0.028,
+   "100": 0.149,
+   "365": 0.409
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [
+  {
+   "jd_start": 2428576.62,
+   "jd_end": 2428605.53,
+   "date_start": "1937-02-12",
+   "date_end": "1937-03-13",
+   "span_d": 28.9,
+   "n_plates": 10,
+   "n_nights": 8,
+   "series": [
+    "ac",
+    "b",
+    "rb",
+    "rh",
+    "rl"
+   ],
+   "depth_fit_mag": 0.79,
+   "dlogL_box_fitdepth": 10.6,
+   "dlogL_box_catdepth": 25.9,
+   "shifted_epoch_null": {
+    "n": 200,
+    "median": 0.0,
+    "p95": 0.0,
+    "max": 2.6,
+    "frac_ge_candidate": 0.0
+   },
+   "plates": [
+    {
+     "plate": "rl1211",
+     "jd": 2428576.62,
+     "date": "1937-02-12",
+     "kind": "D",
+     "dm": 0.79,
+     "lim": 1.85,
+     "comparisons_detected": "8/11"
+    },
+    {
+     "plate": "rl1222",
+     "jd": 2428593.57,
+     "date": "1937-03-01",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.49,
+     "comparisons_detected": "9/11"
+    },
+    {
+     "plate": "rl1223",
+     "jd": 2428593.61,
+     "date": "1937-03-01",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.81,
+     "comparisons_detected": "7/11"
+    },
+    {
+     "plate": "rl1225",
+     "jd": 2428594.57,
+     "date": "1937-03-02",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.72,
+     "comparisons_detected": "5/11"
+    },
+    {
+     "plate": "rl1226",
+     "jd": 2428594.61,
+     "date": "1937-03-02",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.58,
+     "comparisons_detected": "7/11"
+    },
+    {
+     "plate": "rl1228",
+     "jd": 2428596.58,
+     "date": "1937-03-04",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.68,
+     "comparisons_detected": "6/11"
+    },
+    {
+     "plate": "rb7264",
+     "jd": 2428603.36,
+     "date": "1937-03-10",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.62,
+     "comparisons_detected": "6/11"
+    },
+    {
+     "plate": "b61737",
+     "jd": 2428604.29,
+     "date": "1937-03-11",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.3,
+     "comparisons_detected": "10/11"
+    },
+    {
+     "plate": "ac33547",
+     "jd": 2428604.57,
+     "date": "1937-03-12",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.22,
+     "comparisons_detected": "7/11"
+    },
+    {
+     "plate": "rh7593",
+     "jd": 2428605.53,
+     "date": "1937-03-13",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.99,
+     "comparisons_detected": "6/11"
+    }
+   ]
+  },
+  {
+   "jd_start": 2444610.67,
+   "jd_end": 2444696.87,
+   "date_start": "1981-01-06",
+   "date_end": "1981-04-02",
+   "span_d": 86.2,
+   "n_plates": 8,
+   "n_nights": 8,
+   "series": [
+    "dnb",
+    "dsb"
+   ],
+   "depth_fit_mag": 3.84,
+   "dlogL_box_fitdepth": 20.8,
+   "dlogL_box_catdepth": 20.8,
+   "shifted_epoch_null": {
+    "n": 200,
+    "median": 0.0,
+    "p95": 0.0,
+    "max": 18.2,
+    "frac_ge_candidate": 0.0
+   },
+   "plates": [
+    {
+     "plate": "dnb2701",
+     "jd": 2444610.67,
+     "date": "1981-01-06",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.54,
+     "comparisons_detected": "3/7"
+    },
+    {
+     "plate": "dsb664",
+     "jd": 2444618.07,
+     "date": "1981-01-13",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.02,
+     "comparisons_detected": "6/11"
+    },
+    {
+     "plate": "dnb2713",
+     "jd": 2444635.65,
+     "date": "1981-01-31",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.51,
+     "comparisons_detected": "5/7"
+    },
+    {
+     "plate": "dnb2727",
+     "jd": 2444663.58,
+     "date": "1981-02-28",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.95,
+     "comparisons_detected": "6/11"
+    },
+    {
+     "plate": "dsb694",
+     "jd": 2444672.94,
+     "date": "1981-03-09",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.51,
+     "comparisons_detected": "8/11"
+    },
+    {
+     "plate": "dsb704",
+     "jd": 2444673.97,
+     "date": "1981-03-10",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.49,
+     "comparisons_detected": "5/11"
+    },
+    {
+     "plate": "dnb2753",
+     "jd": 2444691.54,
+     "date": "1981-03-28",
+     "kind": "N",
+     "dm": null,
+     "lim": 0.61,
+     "comparisons_detected": "6/9"
+    },
+    {
+     "plate": "dsb721",
+     "jd": 2444696.87,
+     "date": "1981-04-02",
+     "kind": "N",
+     "dm": null,
+     "lim": 1.55,
+     "comparisons_detected": "6/11"
+    }
+   ]
+  }
+ ],
+ "comparison_null": {
+  "comparisons_tested": 11,
+  "with_events": 1,
+  "total_events": 6,
+  "hits": [
+   {
+    "ref": "407051151061603",
+    "n_events": 6,
+    "events": [
+     {
+      "year_start": 1939.06,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1946.98,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1974.89,
+      "n_plates": 7
+     },
+     {
+      "year_start": 1975.76,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1985.04,
+      "n_plates": 3
+     },
+     {
+      "year_start": 1986.98,
+      "n_plates": 3
+     }
+    ]
+   }
+  ]
+ }
+}
