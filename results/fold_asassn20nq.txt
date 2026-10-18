@@ -1,0 +1,12 @@
+--- repo cuts (core ok): 345 detections, 6 informative non-detections, plate sigma 0.158
+   plates in predicted eclipses (plate, jd, cycle back, dist to mid d, kind, dB, lim, comparisons):
+    ('dnb4922', 2446354.8, 19, 1.5, 'D', 0.27, 0.95, '4/5')
+    ('dnb4941', 2446356.7, 19, 0.4, 'D', 0.28, 0.72, '3/4')
+   expected detections in windows from plate placement alone: 4.1; observed: 2
+   all faint detections (dB > 0.4) and their distance to the nearest predicted mid-eclipse: [('md23956', 2425616.5, 0.46, 324.6), ('dnb285', 2440504.6, 0.57, 166.7), ('dnb535', 2442010.5, 0.52, 168.0), ('dnb874', 2442391.5, 0.41, 203.3), ('dnb1166', 2442714.7, 0.61, 119.9), ('dnb2224', 2443862.6, 0.51, 236.8), ('dnb3252', 2445230.7, 0.41, 373.3), ('dnb5006', 2446404.6, 0.48, 48.3)]
+--- strict (cdet >= 4 comparison residuals): 228 detections, 6 informative non-detections, plate sigma 0.125
+   plates in predicted eclipses (plate, jd, cycle back, dist to mid d, kind, dB, lim, comparisons):
+    ('dnb4922', 2446354.8, 19, 1.5, 'D', 0.27, 0.95, '4/5')
+   expected detections in windows from plate placement alone: 2.7; observed: 1
+   all faint detections (dB > 0.4) and their distance to the nearest predicted mid-eclipse: [('md23956', 2425616.5, 0.46, 324.6), ('dnb285', 2440504.6, 0.57, 166.7), ('dnb874', 2442391.5, 0.41, 203.3), ('dnb1166', 2442714.7, 0.61, 119.9), ('dnb2224', 2443862.6, 0.51, 236.8)]
+conclusion: the two plates in predicted windows (+0.27, +0.28 mag, same cycle, ~1.7 sigma each against a 0.6 mag modern depth) do not confirm the period on plates; no faint plate lands near any other predicted eclipse.
