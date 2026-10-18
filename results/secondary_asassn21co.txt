@@ -1,0 +1,10 @@
+ASASSN-21co secondary search: 574 good plates, sigma 0.171, P=4343.3 d, cycles -12..-3
+phase coverage (66 d window): 4% of secondary phases have NO plate, 91% have >= 2 plates; in totality (+-11.5 d) 18% have none, 66% have >= 2
+nearest plates to anti-phase (0.5): [42. 62. 63.] d away -> a circular-orbit secondary is untestable in totality
+anti-phase stack: 0 plates within 33 d
+top secondary candidates (dlogL at depth 0.4, phase, plates): [(3.0, 0.33, 2), (3.0, 0.846, 3), (3.0, 0.338, 2), (2.7, 0.336, 2), (2.7, 0.334, 2), (2.7, 0.332, 2)]
+depth profile at best phase 0.33: [(0.15, 1.9), (0.25, 2.7), (0.4, 3.0), (0.6, 1.9), (0.75, -0.0)]
+  plate dsb2851 jd 2447708.0 dist 16 d dB +0.34 comparisons 9/11
+  plate dsb2853 jd 2447708.1 dist 16 d dB +0.25 comparisons 8/12
+scramble null (200): median max 3.9, p95 10.0, max 15.1; observed best 3.0; fraction of nulls >= observed: 0.605
+conclusion: no secondary eclipse anywhere (best phase is below the scramble median); exact anti-phase is untestable (nearest plate 42 d away), and with typically 2-3 plates per 66 d phase window only a secondary deeper than ~0.4 mag could have been seen.
