@@ -1,0 +1,12 @@
+# Independent re-measurement of ASASSN-21co on DASCH plate cutouts (src/remeasure.py).
+# Cutouts fetched with: python cutouts.py 274.4647083 -58.13033333 <DASCH ref_number> <out.png> b28147,b29521,b29976,b30646  (and dsb1703,dsb1716,dsb1725,dsb1737)
+# Measured with:        python remeasure.py 274.4647083 -58.13033333 APASS_J181751.5-580749 ../data/cutouts/{b28147,b29521,b29976,b30646,dsb01703,dsb01716,dsb01725,dsb01737}_*
+# dm = measured minus catalogue B. The level on normal plates is +0.06 to +0.23; eclipse plates are b29521, dsb01716, dsb01725.
+b28147_0_274.4647_-5 calib stars  22 scatter 0.14 | target B_cat 13.33 measured 13.45 (dm +0.12)
+b29521_0_274.4647_-5 calib stars  22 scatter 0.14 | target B_cat 13.33 measured 14.03 (dm +0.70)
+b29976_0_274.4647_-5 calib stars  22 scatter 0.10 | target B_cat 13.33 measured 13.39 (dm +0.06)
+b30646_0_274.4647_-5 calib stars  20 scatter 0.13 | target B_cat 13.33 measured 13.53 (dm +0.20)
+dsb01703_0_274.4647_ calib stars  22 scatter 0.14 | target B_cat 13.33 measured 13.56 (dm +0.23)
+dsb01716_0_274.4647_ calib stars  22 scatter 0.09 | target B_cat 13.33 measured 14.10 (dm +0.77)
+dsb01725_0_274.4647_ calib stars  22 scatter 0.17 | target B_cat 13.33 measured 14.24 (dm +0.91)
+dsb01737_0_274.4647_ calib stars  22 scatter 0.15 | target B_cat 13.33 measured 13.48 (dm +0.15)

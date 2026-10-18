@@ -1,0 +1,4 @@
+# raw DASCH downloads (~200 MB); src/fetch.py recreates them
+data/
+__pycache__/
+*.pyc

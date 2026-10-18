@@ -1,0 +1,58 @@
+J073234-200049: median B 14.91, plate scatter 0.07, 74 good plates, 0 events
+J175602+013135: median B 15.21, plate scatter 0.14, 116 good plates, 0 events
+J223332+565552: median B 13.23, plate scatter 0.17, 654 good plates, 0 events
+J073924-272916: median B 14.59, plate scatter 0.07, 40 good plates, 12 events
+    1923.996- 1924.073 plates=4 nights=3 series=mf :: N>+1.33[9/12] N>+1.80[12/12] N>+1.61[9/12] N>+1.77[9/12]
+    1934.046- 1934.109 plates=3 nights=3 series=rb :: N>+0.67[8/12] N>+1.03[11/12] N>+1.45[8/12]
+    1935.100- 1935.270 plates=4 nights=4 series=b,rb :: N>+0.50[11/12] N>+0.65[9/12] N>+2.31[10/12] N>+0.63[10/12]
+    1937.127- 1937.329 plates=6 nights=6 series=b,rb :: N>+1.21[10/12] N>+2.36[11/12] N>+2.15[12/12] N>+2.14[10/12] N>+1.31[10/12] N>+1.91[11/12]
+    1938.832- 1938.887 plates=4 nights=4 series=rb :: N>+1.38[9/12] N>+0.53[11/12] N>+0.86[4/8] N>+1.07[6/12]
+    1940.902- 1940.932 plates=3 nights=3 series=b,rb :: N>+2.34[12/12] N>+0.96[12/12] N>+1.20[9/12]
+    1943.152- 1943.267 plates=5 nights=5 series=b,rb :: N>+0.74[11/12] N>+1.72[8/12] N>+0.82[5/12] N>+1.98[12/12] N>+1.45[9/12]
+    1948.108- 1948.318 plates=5 nights=5 series=am,mf,rb :: N>+0.81[9/12] N>+1.78[10/12] N>+0.65[10/12] N>+1.09[10/12] N>+2.32[12/12]
+    1948.967- 1948.998 plates=4 nights=4 series=am,mf,rb :: N>+1.65[9/12] N>+1.91[12/12] N>+0.84[10/12] N>+1.76[9/12]
+    1949.143- 1949.320 plates=5 nights=5 series=am,rb :: N>+1.16[8/12] N>+1.36[10/12] N>+0.64[10/12] N>+1.61[10/12] N>+0.65[12/12]
+    1949.910- 1950.046 plates=4 nights=4 series=b,rb :: N>+0.76[11/12] N>+2.49[12/12] N>+1.38[9/12] N>+0.76[11/12]
+    1951.086- 1951.240 plates=3 nights=3 series=b,rb :: N>+2.48[11/12] N>+1.01[10/12] N>+2.13[11/12]
+J074007-161608: median B 13.56, plate scatter 0.12, 314 good plates, 0 events
+J094848-545959: median B 13.22, plate scatter 0.17, 678 good plates, 1 events
+    1941.443- 1941.460 plates=3 nights=3 series=am,b :: F+1.18[7/9] N>+1.10[5/7] F+1.22[9/9]
+J162209-444247: median B 14.73, plate scatter 0.10, 224 good plates, 0 events
+J183210-173432: median B 13.70, plate scatter 0.21, 381 good plates, 0 events
+J183606-314826: median B 15.06, plate scatter 0.20, 62 good plates, 0 events
+J190316-195739: median B 14.70, plate scatter 0.16, 191 good plates, 0 events
+J205245-713514: median B 13.81, plate scatter 0.16, 697 good plates, 0 events
+J212132+480140: median B 14.33, plate scatter 0.15, 138 good plates, 0 events
+J225702+562312: median B 14.54, plate scatter 0.15, 147 good plates, 0 events
+J005437+644347: median B 14.22, plate scatter 0.16, 345 good plates, 0 events
+J181752-580749: median B 13.30, plate scatter 0.16, 574 good plates, 0 events
+J005255+633515: median B 14.50, plate scatter 0.16, 180 good plates, 0 events
+J062510-075341: median B 14.42, plate scatter 0.10, 109 good plates, 0 events
+J124745-622756: median B 14.37, plate scatter 0.16, 362 good plates, 0 events
+J160757-574540: median B 14.76, plate scatter 0.10, 216 good plates, 0 events
+J175912-120956: median B 14.02, plate scatter 0.11, 487 good plates, 0 events
+J070519+061219: median B 13.29, plate scatter 0.13, 403 good plates, 2 events
+    1937.116- 1937.195 plates=10 nights=8 series=ac,b,rb,rh,rl :: F+0.79[8/11] N>+1.49[9/11] N>+1.81[7/11] N>+0.72[5/11] N>+1.58[7/11] N>+0.68[6/11] N>+1.62[6/11] N>+1.30[10/11]
+    1981.015- 1981.251 plates=8 nights=8 series=dnb,dsb :: N>+0.54[3/7] N>+1.02[6/11] N>+0.51[5/7] N>+0.95[6/11] N>+1.51[8/11] N>+1.49[5/11] N>+0.61[6/9] N>+1.55[6/11]
+J081523-385923: median B 14.17, plate scatter 0.09, 255 good plates, 0 events
+J085816-430955: median B 12.70, plate scatter 0.10, 683 good plates, 1 events
+    1947.056- 1947.149 plates=3 nights=3 series=am,bi :: N>+0.54[4/8] N>+0.67[5/9] N>+0.61[4/9]
+J114712-621057: median B 13.30, plate scatter 0.24, 261 good plates, 7 events
+    1929.263- 1929.408 plates=6 nights=5 series=mf,rb :: N>+2.39[6/12] N>+1.98[7/12] N>+1.99[6/12] N>+1.26[9/12] N>+1.69[7/12] N>+1.54[9/12]
+    1934.222- 1934.279 plates=5 nights=4 series=mf :: N>+2.70[6/12] N>+3.26[6/12] N>+2.70[7/12] N>+2.39[5/12] N>+1.46[7/12]
+    1938.478- 1938.498 plates=3 nights=3 series=am,b,rb :: N>+3.40[10/12] N>+1.26[5/12] N>+2.97[8/12]
+    1984.074- 1984.271 plates=4 nights=4 series=dsb :: N>+0.88[8/12] N>+0.85[5/11] N>+1.22[8/12] N>+1.06[7/12]
+    1984.471- 1984.544 plates=4 nights=3 series=dsb :: N>+1.39[6/12] N>+0.90[9/12] N>+0.97[6/12] N>+1.17[5/12]
+    1986.207- 1986.365 plates=5 nights=4 series=dsb :: N>+1.08[9/12] N>+1.09[8/12] N>+0.84[8/11] N>+0.99[5/12] N>+0.96[6/12]
+    1988.274- 1988.533 plates=8 nights=8 series=dsb :: N>+1.28[8/12] N>+1.20[6/12] N>+1.52[5/12] N>+1.42[8/12] N>+1.10[5/12] N>+1.38[6/12] N>+1.24[7/12] N>+0.95[9/12]
+J181707-164819: median B 13.75, plate scatter 0.15, 399 good plates, 0 events
+J183153-284827: median B 14.20, plate scatter 0.20, 84 good plates, 0 events
+J184916-473251: median B 14.03, plate scatter 0.15, 416 good plates, 4 events
+    1924.497- 1924.640 plates=4 nights=4 series=ax :: N>+0.97[3/6] N>+0.73[2/5] N>+0.78[3/4] N>+0.73[4/4]
+    1928.472- 1928.554 plates=3 nights=3 series=ax :: N>+0.85[2/4] N>+0.98[2/5] N>+0.94[2/4]
+    1942.383- 1942.457 plates=3 nights=3 series=ax :: N>+0.68[4/5] N>+1.09[3/6] N>+0.96[3/6]
+    1942.515- 1942.539 plates=4 nights=4 series=ax :: N>+0.73[3/6] N>+0.77[3/4] N>+1.24[4/6] N>+0.86[2/4]
+J042214+152530: median B 13.98, plate scatter 0.20, 244 good plates, 0 events
+J080327-261620: median B 13.25, plate scatter 0.17, 298 good plates, 0 events
+J174328+343315: median B 13.83, plate scatter 0.16, 255 good plates, 0 events
+J202402+383938: median B 13.72, plate scatter 0.18, 362 good plates, 0 events
