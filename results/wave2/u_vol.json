@@ -1,0 +1,66 @@
+{
+ "name": "U Vol",
+ "kind": "tierA",
+ "ra_deg": 105.095,
+ "dec_deg": -66.2169,
+ "catalogue_depth_mag": 1.3,
+ "rank": "9",
+ "score": "0.4797",
+ "dasch_ref_csv": "APASS_J070022.8-661301",
+ "type": "EA:",
+ "period_status": "period_unknown_in_vsx;type_uncertain",
+ "dasch_ref": "APASS_J070022.8-661301",
+ "dasch_ref_number": "407002282661301",
+ "dasch_sep_arcsec": 0.22,
+ "dasch_B": "11.6",
+ "dasch_num_matches": "2787",
+ "n_comparisons": 5,
+ "comparisons": [
+  "APASS_J070018.7-660514",
+  "APASS_J070140.4-661831",
+  "APASS_J070120.9-660919",
+  "APASS_J065911.2-661427",
+  "APASS_J070141.2-662032"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 11.61,
+ "plate_sigma_mag": 0.099,
+ "n_good_plates": 2016,
+ "n_plate_rows": 2933,
+ "miss_rate": 0.02,
+ "jd_range": [
+  2411296.9,
+  2447774.0
+ ],
+ "n_faint_plates": 3,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 3,
+ "sensitivity": {
+  "plate_sigma_mag": 0.099,
+  "faint_threshold_mag": 0.5,
+  "catalogue_depth_mag": 1.3,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 2015,
+  "caught_frac": {
+   "10": 0.217,
+   "30": 0.368,
+   "100": 0.525,
+   "365": 0.689
+  },
+  "caught_frac_3nights": {
+   "10": 0.051,
+   "30": 0.175,
+   "100": 0.368,
+   "365": 0.592
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 5,
+  "with_events": 0,
+  "total_events": 0,
+  "hits": []
+ }
+}

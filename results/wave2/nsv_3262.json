@@ -1,0 +1,65 @@
+{
+ "name": "NSV 3262",
+ "kind": "tierA",
+ "ra_deg": 103.516,
+ "dec_deg": 4.18542,
+ "catalogue_depth_mag": 1.4,
+ "rank": "5",
+ "score": "0.5768",
+ "dasch_ref_csv": "APASS_J065403.9+041108",
+ "type": "EA:",
+ "period_status": "period_unknown_in_vsx;type_uncertain",
+ "dasch_ref": "APASS_J065403.9+041108",
+ "dasch_ref_number": "406540391041108",
+ "dasch_sep_arcsec": 1.34,
+ "dasch_B": "10.22",
+ "dasch_num_matches": "3619",
+ "n_comparisons": 4,
+ "comparisons": [
+  "APASS_J065340.2+040806",
+  "APASS_J065419.4+040234",
+  "APASS_J065342.2+040108",
+  "APASS_J065330.2+041026"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 10.13,
+ "plate_sigma_mag": 0.099,
+ "n_good_plates": 2088,
+ "n_plate_rows": 3830,
+ "miss_rate": 0.02,
+ "jd_range": [
+  2410714.5,
+  2447861.8
+ ],
+ "n_faint_plates": 23,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 21,
+ "sensitivity": {
+  "plate_sigma_mag": 0.099,
+  "faint_threshold_mag": 0.5,
+  "catalogue_depth_mag": 1.4,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 2080,
+  "caught_frac": {
+   "10": 0.25,
+   "30": 0.408,
+   "100": 0.584,
+   "365": 0.808
+  },
+  "caught_frac_3nights": {
+   "10": 0.051,
+   "30": 0.214,
+   "100": 0.438,
+   "365": 0.743
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 4,
+  "with_events": 0,
+  "total_events": 0,
+  "hits": []
+ }
+}

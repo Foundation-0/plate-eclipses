@@ -1,0 +1,102 @@
+[
+ {
+  "name": "J070519+061219 (ASASSN-24fw control)",
+  "kind": "control_blind",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J070519.0+061220",
+  "n_good_plates": 403,
+  "plate_sigma_mag": 0.13,
+  "n_events_ge3nights": 2
+ },
+ {
+  "name": "J181752-580749 (ASASSN-21co control)",
+  "kind": "control_period",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J181751.5-580749",
+  "n_good_plates": 574,
+  "plate_sigma_mag": 0.163,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 2587",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J054233.4+070923",
+  "n_good_plates": 797,
+  "plate_sigma_mag": 0.186,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 3262",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J065403.9+041108",
+  "n_good_plates": 2088,
+  "plate_sigma_mag": 0.099,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 4320",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J085657.6+124906",
+  "n_good_plates": 920,
+  "plate_sigma_mag": 0.117,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "U Vol",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J070022.8-661301",
+  "n_good_plates": 2016,
+  "plate_sigma_mag": 0.099,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 6181",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J131827.5+631729",
+  "n_good_plates": 1163,
+  "plate_sigma_mag": 0.144,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "SU Men",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J040639.3-770757",
+  "n_good_plates": 1081,
+  "plate_sigma_mag": 0.341,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 3628",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J073155.4-124723",
+  "n_good_plates": 1127,
+  "plate_sigma_mag": 0.158,
+  "n_events_ge3nights": 0
+ },
+ {
+  "name": "NSV 1565",
+  "kind": "tierA",
+  "status": "searched",
+  "error": null,
+  "dasch_ref": "APASS_J041854.1-643528",
+  "n_good_plates": 1102,
+  "plate_sigma_mag": 0.105,
+  "n_events_ge3nights": 0
+ }
+]

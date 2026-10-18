@@ -1,0 +1,69 @@
+{
+ "name": "NSV 4320",
+ "kind": "tierA",
+ "ra_deg": 134.24,
+ "dec_deg": 12.8184,
+ "catalogue_depth_mag": 1.7,
+ "rank": "8",
+ "score": "0.4913",
+ "dasch_ref_csv": "APASS_J085657.6+124906",
+ "type": "EA",
+ "period_status": "period_unknown_in_vsx",
+ "dasch_ref": "APASS_J085657.6+124906",
+ "dasch_ref_number": "408565761124906",
+ "dasch_sep_arcsec": 0.56,
+ "dasch_B": "12.69",
+ "dasch_num_matches": "1928",
+ "n_comparisons": 8,
+ "comparisons": [
+  "APASS_J085644.3+124730",
+  "APASS_J085723.6+125624",
+  "APASS_J085616.9+124743",
+  "APASS_J085732.2+124325",
+  "APASS_J085733.5+125906",
+  "APASS_J085654.4+124621",
+  "APASS_J085649.0+124122",
+  "APASS_J085712.7+124000"
+ ],
+ "ref_matches_targets_v2": true,
+ "status": "searched",
+ "median_B_corrected": 12.66,
+ "plate_sigma_mag": 0.117,
+ "n_good_plates": 920,
+ "n_plate_rows": 3693,
+ "miss_rate": 0.02,
+ "jd_range": [
+  2410656.8,
+  2447861.9
+ ],
+ "n_faint_plates": 6,
+ "n_events_ge3nights": 0,
+ "n_clusters_ge1night": 6,
+ "sensitivity": {
+  "plate_sigma_mag": 0.117,
+  "faint_threshold_mag": 0.5,
+  "catalogue_depth_mag": 1.7,
+  "catalogue_depth_detectable": true,
+  "n_normal_plates": 920,
+  "caught_frac": {
+   "10": 0.138,
+   "30": 0.289,
+   "100": 0.479,
+   "365": 0.794
+  },
+  "caught_frac_3nights": {
+   "10": 0.016,
+   "30": 0.082,
+   "100": 0.266,
+   "365": 0.654
+  }
+ },
+ "gauntlet_capped_at_25": false,
+ "candidates": [],
+ "comparison_null": {
+  "comparisons_tested": 8,
+  "with_events": 0,
+  "total_events": 0,
+  "hits": []
+ }
+}
