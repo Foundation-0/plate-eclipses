@@ -1,0 +1,128 @@
+{
+ "star": "ASASSN-21co = ASASSN-V J181752.04-580749.3",
+ "dasch_source": "APASS_J181751.5-580749",
+ "good_plates": 574,
+ "plate_sigma_mag": 0.17,
+ "comparison_stars": 12,
+ "eclipse_1985": {
+  "T_best": 2446258.0,
+  "T_lo": 2446256.5,
+  "T_hi": 2446260.75,
+  "dlogL_vs_no_eclipse": 14.8,
+  "plates_in_window": 17,
+  "plates_in_eclipse": [
+   {
+    "plate": "dsb1692",
+    "jd": 2446225.95,
+    "date": "1985-06-09",
+    "dB": 0.07,
+    "comparisons_detected": "10/12"
+   },
+   {
+    "plate": "dsb1703",
+    "jd": 2446233.1,
+    "date": "1985-06-16",
+    "dB": 0.1,
+    "comparisons_detected": "9/12"
+   },
+   {
+    "plate": "dsb1716",
+    "jd": 2446257.0,
+    "date": "1985-07-10",
+    "dB": 0.74,
+    "comparisons_detected": "12/12"
+   },
+   {
+    "plate": "dsb1725",
+    "jd": 2446268.0,
+    "date": "1985-07-21",
+    "dB": 0.98,
+    "comparisons_detected": "10/12"
+   },
+   {
+    "plate": "dsb1737",
+    "jd": 2446290.9,
+    "date": "1985-08-13",
+    "dB": -0.21,
+    "comparisons_detected": "11/12"
+   }
+  ]
+ },
+ "eclipse_1902": {
+  "T_best": 2415853.75,
+  "T_lo": 2415846.0,
+  "T_hi": 2415883.0,
+  "dlogL_vs_no_eclipse": 7.8,
+  "plates_in_window": 3,
+  "plates_in_eclipse": [
+   {
+    "plate": "b29521",
+    "jd": 2415869.76,
+    "date": "1902-04-30",
+    "dB": 0.67,
+    "comparisons_detected": "11/12"
+   }
+  ]
+ },
+ "period_from_plates_only": {
+  "P_d": 4342.0,
+  "sigma_d": 2.7
+ },
+ "plates_only_predicts": {
+  "2009": {
+   "mid_jd": 2454942.7,
+   "date": "2009-04-21",
+   "sigma_d": 5.7
+  },
+  "2021": {
+   "mid_jd": 2459284.7,
+   "date": "2021-03-11",
+   "sigma_d": 8.3
+  }
+ },
+ "observed": {
+  "2009": "around UT 2009-04-23 (ASAS; Rowan et al. 2021)",
+  "2021": "began 2021 Feb 10-12 (ASAS-SN), mid about 2021-03-16"
+ },
+ "ephemeris": {
+  "epochs": [
+   {
+    "cycle": -10,
+    "mid_jd": 2415864.5,
+    "sigma_d": 18.5,
+    "source": "DASCH plate b29521 (this work)"
+   },
+   {
+    "cycle": -3,
+    "mid_jd": 2446258.6,
+    "sigma_d": 2.1,
+    "source": "DASCH plates dsb1716, dsb1725 (this work)"
+   },
+   {
+    "cycle": -1,
+    "mid_jd": 2454944.5,
+    "sigma_d": 5.0,
+    "source": "ASAS, \"around UT 2009-04-23\" (Rowan et al. 2021); 5 d sigma assumed"
+   },
+   {
+    "cycle": 0,
+    "mid_jd": 2459289.5,
+    "sigma_d": 3.0,
+    "source": "ASAS-SN, began 2021 Feb 10-12 (AAVSO Alert Notice 732) + 33 d; 3 d sigma assumed"
+   }
+  ],
+  "T0_jd": 2459288.7,
+  "T0_date": "2021-03-15",
+  "P_d": 4343.3,
+  "sigma_P_d": 1.1,
+  "chi2": 0.33,
+  "dof": 2,
+  "next_primary_eclipse": {
+   "mid_jd": 2463632.0,
+   "mid_date": "2033-02-03",
+   "sigma_d": 3.5,
+   "first_contact": "2033-01-01",
+   "last_contact": "2033-03-08"
+  }
+ }
+}
